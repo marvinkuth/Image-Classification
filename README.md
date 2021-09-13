@@ -1,4 +1,4 @@
-# Project BigData Analytics
+# Image Classification
 
 Dieses Projekt entstand im Rahmen einer Studienarbeit, um mithilfe von Python ein CNN zu erstellen. Am Ende soll das CNN in der Lage sein, Hundebilder von Katzenbildern zu unterscheiden. 
 
