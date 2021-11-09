@@ -1,20 +1,20 @@
 # Image Classification
 
-Dieses Projekt entstand im Rahmen einer Studienarbeit, um mithilfe von Python ein CNN zu erstellen. Am Ende soll das CNN in der Lage sein, Hundebilder von Katzenbildern zu unterscheiden. 
+This project was created as part of a student research project to create a CNN using Python. At the end, the CNN should be able to distinguish dog pictures from cat pictures. 
 
 ## Installation
 
-Um das CNN nutzen zu können, müssen alle Bilddateien in den Ordner "train" kopiert werden. Zudem muss der Bildname das dargestellte Tier enthalten. 
+To use the CNN, all image files must be copied to the "train" folder. In addition, the image name must contain the depicted animal. 
 
-Wird das Repository komplett übernommen, liegen die Bilder bereits vor und die cnn.ipynb kann direkt ausgeführt werden.
+If the repository is taken over completely, the images are already available and the cnn.ipynb can be executed directly.
 
-Alternativ kann der Datensatz hier abgerufen werden: https://www.kaggle.com/c/dogs-vs-cats/data
+Alternatively, the dataset can be retrieved here: https://www.kaggle.com/c/dogs-vs-cats/data
 
-## Notwendige Pakete
+## Required packages
 - tensorflow
 - opencv-python
 - keract
 
-## Ersteller
+## Creater
 
-Dieses Projekt wurde von Moritz Neubert, Jonas Mannß, Marvin Kuth, Henry Juncker und Sebastian Straub erstellt.
+This project was created by Moritz Neubert, Jonas Mannß, Marvin Kuth, Henry Juncker and Sebastian Straub.
